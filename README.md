@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Jerry Skyles Wemisiko</h1>
+<h1 align="center">Hello, I am Skyles </h1>
 <h3 align="center">A passionate software engineering with a knack for esports</h3>
 
 - 🌱 I’m currently learning **Python**
