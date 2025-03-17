@@ -14,29 +14,68 @@
 
 - 📫 Want to build something awesome together? **jerrywemisiko@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h2 align="center">🚀 About Me</h2>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"> </p>
+
+🔭 I specialize in building scalable applications and writing clean, efficient code.
+
+🛠️ I love experimenting with **new technologies** and **enhancing user experiences**.
+
+🎯 My mission: **Code. Innovate. Inspire.**
+
+📚 I’m a lifelong learner, always leveling up my skills!
+
+---
+
+<h2 align="center">🚀 Projects & Contributions</h2>
+<p align="center">Check out some of my awesome work! 🔥</p>
+
+- 🌍 **Open Source Contributor** – I contribute to **open-source projects** that make a difference.
+- 🏆 **Hackathon Champion** – I’ve participated and won in various coding challenges.
+- 💻 **Full-Stack Development** – I build web apps that are functional, responsive, and blazing fast!
+
+---
+
+<h3 align="left">💡 Tech Stack:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,nodejs,mysql,mongodb,express,figma,photoshop&perline=5" alt="tech stack icons" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamskyles&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamskyles&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+<h3 align="left">🚀 Connect with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/jwemisiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwemisiko" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/jerrywemisiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerrywemisiko" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+---
+
+<h3 align="center">💰 Support My Work:</h3>
+<p align="center">
+  <a href="https://buymeacoffee.com/iamskyles"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-<a href="https://buymeacoffee.com/iamskyles"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
-</p><br><br>
+---
+
+<h2 align="center">🔥 Fun Facts</h2>
+<ul>
+  <li>🎮 I love esports and competitive gaming!</li>
+  <li>📖 I enjoy reading about emerging tech and AI.</li>
+  <li>🎧 I code while listening to epic soundtracks!</li>
+</ul>
+
+---
+
+<h2 align="center">🎯 Motto</h2>
+<p align="center"> "Creating The Change The World Needs To See" 🚀</p>
