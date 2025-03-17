@@ -45,14 +45,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamskyles&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamskyles&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 <h3 align="left">🚀 Connect with Me:</h3>
 <p align="left">
 <a href="https://twitter.com/jwemisiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jwemisiko" height="30" width="40" /></a>
