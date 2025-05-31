@@ -72,5 +72,7 @@
 
 <h2 align="center">🎯 Motto</h2>
 <p align="center"> "Creating The Change The World Needs To See" 🚀</p>
-[![Profile views](https://komarev.com/ghpvc/?username=Jerry-Wemisiko&color=blue)](https://github.com/Jerry-Wemisiko)
+<a href="https://github.com/Jerry-Wemisiko">
+  <img src="https://komarev.com/ghpvc/?username=Jerry-Wemisiko&label=Profile%20views&color=0e75b6&style=flat" alt="Jerry-Wemisiko" />
+</a>
 
