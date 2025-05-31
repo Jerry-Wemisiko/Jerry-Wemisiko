@@ -51,6 +51,7 @@
 <a href="https://www.linkedin.com/in/jerrywemisiko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jerrywemisiko" height="30" width="40" /></a>
 </p>
 
+
 ---
 
 <h3 align="center">💰 Support My Work:</h3>
@@ -71,3 +72,5 @@
 
 <h2 align="center">🎯 Motto</h2>
 <p align="center"> "Creating The Change The World Needs To See" 🚀</p>
+[![Profile views](https://komarev.com/ghpvc/?username=Jerry-Wemisiko&color=blue)](https://github.com/Jerry-Wemisiko)
+
