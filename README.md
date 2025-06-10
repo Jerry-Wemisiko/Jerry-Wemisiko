@@ -1,7 +1,4 @@
 <h1 align="center">Hello, I am Skyles 🚀</h1>
-<a align="center" href="https://github.com/Jerry-Wemisiko">
-  <img src="https://komarev.com/ghpvc/?username=Jerry-Wemisiko&label=Profile%20views&color=0e75b6&style=flat" alt="Jerry-Wemisiko" />
-</a>
 
 
 <h2 align="center">⭐ Love what you see? Smash that star button and support the grind! ⭐</h2>
